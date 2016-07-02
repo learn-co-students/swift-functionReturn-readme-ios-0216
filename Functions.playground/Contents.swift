@@ -42,4 +42,4 @@ func getAgeAndCongratulate(name: String) -> Int {
 }
 
 let friend2 = "Pete"
-var friend2Age = getAgeAndCongratulate(friend2)
+var friend2Age = getAgeAndCongratulate(friend2) // friend2Age gets name from friend2 constant - thus returning an int and is assigned to friend2Age variable
